@@ -1,4 +1,4 @@
-# Object Orientation in JavaScript
+# Object Orientation in JavaScript c
 
 “Every application is a collection of code; the code’s arrangement is the
 design." - Sandi Metz
